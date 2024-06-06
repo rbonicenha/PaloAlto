@@ -1,0 +1,26 @@
+# A opção abaixo modifica o tempo de checagem de novos vídeos dentro do canal
+# The option below modifies the time interval for checking new videos within the channel
+# La opción a continuación modifica el tiempo de verificación de nuevos videos dentro del canal
+
+Intervalo_de_Checagem = 10
+
+# As opções abaixo habilitam o idioma que o usuário deseja utilizar para visualizar o output das mensagem da console durante a execução do código
+# The options below enable the language the user wishes to use to view the console output during code execution
+# Las opciones a continuación habilitan el idioma que el usuario desea utilizar para visualizar la salida de mensajes de la consola durante la ejecución del código
+
+portugues = disable
+english = enable
+spanish = disable
+
+# Abaixo editamos a lista de canais que o usuário deseja realizar a busca por vídeos, como no exemplo configuramos o arquivo para buscar três canais através de suas IDs.
+# Below we edit the list of channels the user wants to search for videos, as in the example we configure the file to search for three channels through their IDs.
+# A continuación, editamos la lista de canales que el usuario desea buscar videos, como en el ejemplo configuramos el archivo para buscar tres canales a través de sus IDs.
+
+Nome_do_Canal_1 = Rodrigo Bonicenha
+ID_do_Canal_1 = UCzvUh3FYEZCnVl11cWlngDQ
+
+Nome_do_Canal_2 = canal aleatorio
+ID_do_Canal_2 = UCXMOc56ZX6RonCTcba04s_w
+
+Nome_do_Canal_3 = UCH-kco_9USlk8IKU1sUeBpA
+ID_do_Canal_3 = UCH-kco_9USlk8IKU1sUeBpA
