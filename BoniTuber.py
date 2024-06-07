@@ -1,5 +1,5 @@
 # Código desenvolvido por Rodrigo Bonicenha Ferreira
-# Para contatos profissionais, treinamentos, projetos e consultoria entre em contato através dos canais abaixo:
+# Para falar comigo entre em contato através dos canais abaixo:
 # Linkedin: https://www.linkedin.com/in/rodrigo-bonicenha/
 # Whatsapp: +5541991392100
 #
@@ -10,7 +10,7 @@
 # Última modificação em: 05/06/2024
 #
 # Código developed by Rodrigo Bonicenha Ferreira
-# For professional contacts, training, projects, and consulting, please reach out through the channels below:
+# To contact me, please reach out through the channels below:
 # Linkedin: https://www.linkedin.com/in/rodrigo-bonicenha/
 # Whatsapp: +5541991392100
 #
@@ -21,7 +21,7 @@
 # Last modified on: 2024-06-05
 #
 # Code desarrollado por Rodrigo Bonicenha Ferreira
-# Para contactos profesionales, capacitaciones, proyectos y consultoría, comuníquese a través de los siguientes canales:
+# Para contactos comuníquese a través de los siguientes canales:
 # Linkedin: https://www.linkedin.com/in/rodrigo-bonicenha/
 # Whatsapp: +5541991392100
 #
